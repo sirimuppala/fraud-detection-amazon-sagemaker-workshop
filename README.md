@@ -8,6 +8,12 @@ This workshop is divided into three modules.
 
 * **Module 1 : Log into AWS account**
 
+In this module you will log in to the AWS account provided for the workshop.  If you are using
+your own AWS account, you can skip this and start directly with Module 2. 
+
+<details> 
+<summary> Click to expand for detailed steps </summary>
+
 Login to AWS Console (https://dashboard.eventengine.run) using the details provided
     
    ![ee-login](images/ee/EventEngine_Login.png)
@@ -26,7 +32,12 @@ Login to AWS Console (https://dashboard.eventengine.run) using the details provi
         
    ![ee-login](images/ee/EventEngine_AWSConsole_View.png) 
 
+</details>
+
 * **Module 2 : Create a Amazon SageMaker Notebook instance**
+
+<details> 
+<summary> Click to expand for detailed steps </summary>
 
    In the AWS Console, search for SageMaker  service.
    
@@ -67,5 +78,11 @@ Login to AWS Console (https://dashboard.eventengine.run) using the details provi
 
    ![ee-login](images/sagemaker/ListNotebookInstances.png)
    
+</details>   
+   
 * **Module 3 : Execute the fraud detection notebook cells.**   
 
+<details> 
+<summary> Click to expand for detailed steps </summary>
+
+</details>
