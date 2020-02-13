@@ -78,11 +78,20 @@ Login to AWS Console (https://dashboard.eventengine.run) using the details provi
 
    ![ee-login](images/sagemaker/ListNotebookInstances.png)
    
+   Click Open Jupyter
+   
 </details>   
    
 * **Module 3 : Execute the fraud detection notebook cells.**   
 
-<details> 
+<details>
+
 <summary> Click to expand for detailed steps </summary>
+
+   1. Download this git repository by either cloning the repository or downloading the *zip
+
+   2. Upload the sagemaker_fraud_detection.ipynb to the Jupyter notebook.
+
+   3. Click on the notebook to open and execute the cells.
 
 </details>
